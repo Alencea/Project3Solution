@@ -1,0 +1,15 @@
+F:\DataFundimentals\Project3-master\Project3-master\obj\Debug\net6.0\Project3.csproj.AssemblyReference.cache
+F:\DataFundimentals\Project3-master\Project3-master\obj\Debug\net6.0\Project3.GeneratedMSBuildEditorConfig.editorconfig
+F:\DataFundimentals\Project3-master\Project3-master\obj\Debug\net6.0\Project3.AssemblyInfoInputs.cache
+F:\DataFundimentals\Project3-master\Project3-master\obj\Debug\net6.0\Project3.AssemblyInfo.cs
+F:\DataFundimentals\Project3-master\Project3-master\obj\Debug\net6.0\Project3.csproj.CoreCompileInputs.cache
+F:\DataFundimentals\Project3-master\Project3-master\bin\Debug\net6.0\Project3.exe
+F:\DataFundimentals\Project3-master\Project3-master\bin\Debug\net6.0\Project3.deps.json
+F:\DataFundimentals\Project3-master\Project3-master\bin\Debug\net6.0\Project3.runtimeconfig.json
+F:\DataFundimentals\Project3-master\Project3-master\bin\Debug\net6.0\Project3.dll
+F:\DataFundimentals\Project3-master\Project3-master\bin\Debug\net6.0\Project3.pdb
+F:\DataFundimentals\Project3-master\Project3-master\obj\Debug\net6.0\Project3.dll
+F:\DataFundimentals\Project3-master\Project3-master\obj\Debug\net6.0\refint\Project3.dll
+F:\DataFundimentals\Project3-master\Project3-master\obj\Debug\net6.0\Project3.pdb
+F:\DataFundimentals\Project3-master\Project3-master\obj\Debug\net6.0\Project3.genruntimeconfig.cache
+F:\DataFundimentals\Project3-master\Project3-master\obj\Debug\net6.0\ref\Project3.dll
